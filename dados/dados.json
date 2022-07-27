@@ -1,0 +1,36 @@
+{   
+    "tempo-servico":[
+        {"min": 1, "max": 5, "pontos": 15},
+        {"min": 6, "max": 10, "pontos": 40},
+        {"min": 11, "max": 15, "pontos": 80},
+        {"min": 16, "max": 40, "pontos": 115}
+    ],
+    "tempo-carreira":[
+        {"min": 1, "max": 5, "pontos": 21},
+        {"min": 6, "max": 10, "pontos": 49},
+        {"min": 11, "max": 15, "pontos": 71},
+        {"min": 16, "max": 40, "pontos": 109}
+    ],
+    "idade":[
+        {"min": 18, "max": 28, "pontos": 100},
+        {"min": 29, "max": 39, "pontos": 75},
+        {"min": 40, "max": 49, "pontos": 50},
+        {"min": 50, "max": 65, "pontos": 25}
+    ],
+    "academica":[
+        {"nivel": "Elementar", "pontos": 11},
+        {"nivel": "Básico", "pontos": 6},
+        {"nivel": "Médio", "pontos": 8},
+        {"nivel": "Médio Profissional", "pontos": 11},
+        {"nivel": "Bacharelato", "pontos": 11},
+        {"nivel": "Licenciatura", "pontos": 68},
+        {"nivel": "Mestrado", "pontos": 70},
+        {"nivel": "Doutorado", "pontos": 75}
+    ],
+    "Peso": [
+        {"tempo-servico": 20},
+        {"tempo-carreira": 15},
+        {"idade": 20},
+        {"academica": 45}
+    ]
+}
